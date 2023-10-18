@@ -1,1 +1,1 @@
-# tanulaselmelet
+# pedagogy
