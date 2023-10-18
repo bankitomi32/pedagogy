@@ -1,1 +1,1 @@
-# tanul-selm-let
+# tanulaselmelet
